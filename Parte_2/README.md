@@ -34,7 +34,7 @@ Parte_2/
 └── Imagenes_Informe_Ciberseguridad/
     ├── 01.escaneo_nmap_vulnerabilidades.png
     ├── 02.cve_2026_35414.png
-    └── ... (22 imágenes en total)
+    └── ... 
 ```
 
 ---
